@@ -26,12 +26,12 @@ const Welcome = ({ userName, onStart }) => {
             💝
           </motion.div>
           <h1 className="text-3xl font-bold text-pink-600 mb-4">
-            Chào mừng {userName || 'bạn'}!
+            Welcome búnnn {userName || 'bạn'}!
           </h1>
-          <h2 className="text-2xl font-semibold text-pink-500 mb-6">Hành Trình Tình Yêu</h2>
+          <h2 className="text-2xl font-semibold text-pink-500 mb-6">Ai thông minh hơn NMinhh</h2>
           
           <p className="text-gray-600 mb-8">
-            Hãy cùng nhau trả lời những câu hỏi nhỏ để nhận được món quà đặc biệt từ trái tim anh nhé! 💕
+            Kẹo trả lời cẩn thận nhaa 💕
           </p>
           
           <motion.button
@@ -44,13 +44,13 @@ const Welcome = ({ userName, onStart }) => {
           </motion.button>
           
           <div className="mt-6 text-sm text-pink-400">
-            <p>Mỗi câu trả lời đều là một bất ngờ thú vị!</p>
+            <p>Câu hỏi dễ thôiii</p>
           </div>
         </div>
       </div>
       
       <div className="mt-6 text-xs text-gray-400">
-        <p>❤️ Được tạo nên bằng tất cả tình yêu thương ❤️</p>
+        <p>❤️ Sẵn sàng chưaa ❤️</p>
       </div>
     </motion.div>
   );
